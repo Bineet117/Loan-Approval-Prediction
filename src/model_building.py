@@ -14,8 +14,7 @@ class LoanApprovalModel:
         transformers=[
             ('num', StandardScaler(), ['income_annum', 'loan_amount', 'cibil_score','total_asset_value']),
             ('cat', OneHotEncoder(), ['no_of_dependents', 'education', 'self_employed', 'loan_term'])
-        ]
-        )
+        ])
         return column_transformed
 
 
