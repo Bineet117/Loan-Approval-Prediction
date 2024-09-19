@@ -7,5 +7,9 @@ class Dataloader:
 
 
     def load_raw_data(self):
+<<<<<<< HEAD
         return pd.read_csv(self.raw_data_path)
         
+=======
+        return pd.read_csv(self.raw_data_path)
+>>>>>>> developer
