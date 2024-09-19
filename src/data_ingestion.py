@@ -9,7 +9,3 @@ class Dataloader:
     def load_raw_data(self):
         return pd.read_csv(self.raw_data_path)
         
-
-
-# kk = Dataloader()
-# print(kk.load_processed_data())

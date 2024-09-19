@@ -10,8 +10,6 @@ from sklearn.ensemble import RandomForestClassifier
 
 # Add the 'src' folder to the system path
 sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
-# from src.model_building import LoanApprovalModel
-# from src.data_preprocessing import DataPreprocessor
 from src.config import Config
 
 

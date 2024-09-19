@@ -35,20 +35,3 @@ class DataPreprocessor:
             joblib.dump(data,DATA_PATH)
 
 
-# # Assume we have a dataframe `df`
-# df = pd.DataFrame({
-#     'loan_id': [1, 2, 3, 4],
-#     'residential_assets_value': [5000, 0, 3000, 4500],
-#     'commercial_assets_value': [2000, 1500, 3000, 1000],
-#     'luxury_assets_value': [1000, 500, 200, 300],
-#     'bank_asset_value': [1500, 2000, 1500, 1300],
-#     'education': ['Graduate', 'Not Graduate', 'Graduate', 'Graduate'],
-#     'self_employed': ['Yes', 'No', 'Yes', 'No'],
-#     'loan_status': ['Approved', 'Rejected', 'Approved', 'Rejected']
-# })
-
-# preprocessor = DataPreprocessor()
-# df_processed = preprocessor.preprocess(df)
-# df_mapped = preprocessor.mapping(df_processed)
-
-# print(df_mapped)
