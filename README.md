@@ -108,8 +108,8 @@ Select the features for loan Prediction.
 - Loans with higher CIBIL scores are more likely to be approved, this relationship is not perfectly linear.
 
 <div style="display:flex; justify-content:space-between;">
-  <img src="https://github.com/user-attachments/assets/c93647ee-aae5-4851-a872-c3e490e7de69" alt="Screenshot 1" width="450"/>
-  <img src="https://github.com/user-attachments/assets/f6f8daf1-f538-4e1e-97a6-a1284db8ffcd" alt="Screenshot 2" width="450"/>
+  <img src="https://github.com/user-attachments/assets/c93647ee-aae5-4851-a872-c3e490e7de69" alt="Screenshot 1" width="400"/>
+  <img src="https://github.com/user-attachments/assets/f6f8daf1-f538-4e1e-97a6-a1284db8ffcd" alt="Screenshot 2" width="400"/>
 </div>
 
 
