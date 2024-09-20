@@ -69,5 +69,55 @@ To run the Streamlit application:
   streamlit run app.py
 ```
 Select the features for loan Prediction.
-## Technologies_Used
+## 💰 Technologies Used
 
+
+#### Data Manipulation and Visualization:
+- [Pandas](https://pandas.pydata.org/)
+- [NumPy](https://numpy.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Plotly Express](https://plotly.com/python/plotly-express/)
+
+#### Machine Learning Models:
+- [Scikit-learn](https://scikit-learn.org/stable/) (Logistic Regression, Random Forest Classifier, Decision Tree Classifier, SVC)
+- [XGBoost](https://xgboost.readthedocs.io/en/stable/) (XGBClassifier)
+- [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
+
+#### Preprocessing and Pipeline:
+- [Scikit-learn](https://scikit-learn.org/stable/) (StandardScaler, OneHotEncoder, ColumnTransformer, Pipeline)
+
+#### Model Evaluation Metrics:
+- [Scikit-learn](https://scikit-learn.org/stable/) (Accuracy, Precision, Recall, F1-Score, ROC AUC score, Classification Report, Confusion Matrix, ROC Curve, Precision-Recall Curve, R-squared)
+
+#### Model Persistence:
+- [Joblib](https://joblib.readthedocs.io/en/latest/)
+
+#### Train-Test Split:
+- [Scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html) (train_test_split)
+
+#### Web Application Framework:
+- [Streamlit](https://docs.streamlit.io/)
+
+#### System Utilities:
+- [os](https://docs.python.org/3/library/os.html)
+- [sys](https://docs.python.org/3/library/sys.html)
+
+## 💰 Insights
+![education_and_company](https://github.com/user-attachments/assets/33076181-b00a-4af5-a61d-07a8a7699295)
+- Loans with higher CIBIL scores are more likely to be approved, this relationship is not perfectly linear.
+
+<div style="display:flex; justify-content:space-between;">
+  <img src="https://github.com/user-attachments/assets/c93647ee-aae5-4851-a872-c3e490e7de69" alt="Screenshot 1" width="500"/>
+  <img src="https://github.com/user-attachments/assets/f6f8daf1-f538-4e1e-97a6-a1284db8ffcd" alt="Screenshot 2" width="500"/>
+</div>
+
+
+
+
+## 👉 Contact_Information
+For any questions or feedback, please contact me at bineetgupta117@gmail.com📧.
+
+
+## 👉 Conclusion
+This project aims to provide a user-friendly interface for predicting loan approval, leveraging machine learning techniques.
