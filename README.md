@@ -1,5 +1,7 @@
 
 # 🏦🏦 Loan Approval Prediction 🏦🏦
+<img width="300" alt="Instant-Loan-Approval 1" src="https://github.com/user-attachments/assets/7bd5c947-2ef1-4e08-a70a-35dceff2c7f1">
+
 
 ## 💰 Introduction
 This project focuses on building a predictive model to determine whether a loan application will be approved or rejected. By analyzing various features such as applicant income, credit score, loan amount, and other relevant factors, the model uses machine learning techniques to classify loan applications based on past data. The goal is to help financial institutions make faster, data-driven decisions while minimizing the risk of default. This project includes data preprocessing, feature engineering, model selection, and evaluation to ensure accurate predictions.
