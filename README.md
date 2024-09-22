@@ -18,7 +18,7 @@ This project focuses on building a predictive model to determine whether a loan 
 💸 **self_employed**: A binary indicator (Yes/No) that shows whether the applicant is self-employed. Self-employed individuals may have irregular income, which could affect loan approval chances.
    - Example: `Yes` if self-employed, `No` otherwise.
 
-💸 **income_annum (in lakhs)**: The annual income of the loan applicant in lakhs. Higher income increases the applicant's ability to repay the loan.
+💸 **income_per_annum (in lakhs)**: The annual income of the loan applicant in lakhs. Higher income increases the applicant's ability to repay the loan.
    - Example: `96,00,000` translates to 96 lakhs.
 
 💸 **loan_amount (in lakhs)**: The amount of money the applicant is requesting as a loan, in lakhs. Higher loan amounts can lead to stricter approval criteria.
