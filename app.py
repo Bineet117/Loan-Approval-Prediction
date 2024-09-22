@@ -57,7 +57,7 @@ def user_input_features(df):
 
 # Main function
 def main():
-    st.title("Loan Approval Prediction App")
+    st.title("Loan Approval Prediction App") 
     
     data = load_data()
     input_df = user_input_features(data)
