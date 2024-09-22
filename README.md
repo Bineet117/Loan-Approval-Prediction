@@ -124,7 +124,7 @@ Select the features for loan Prediction.
 
 
 ## 💰 Contact_Information
-For any questions or feedback, please contact me at bineetgupta117@gmail.com📧.
+For any questions or feedback, please contact bineetgupta117@gmail.com📧 / pandasaswat.22@gmail.com📧
 
 
 ## 💰 Conclusion
