@@ -112,6 +112,12 @@ Select the features for loan Prediction.
   <img src="https://github.com/user-attachments/assets/f6f8daf1-f538-4e1e-97a6-a1284db8ffcd" alt="Screenshot 2" width="400"/>
 </div>
 
+## 💰 Streamlit App
+<div style="display:flex; justify-content:space-between;">
+  <img src="https://github.com/user-attachments/assets/ab4723e3-4b41-416c-b196-23bb72c85426" alt="Screenshot 1" width="400"/>
+  <img src="https://github.com/user-attachments/assets/069f0b71-84d1-4e7c-a493-35ce60edbc7a" alt="Screenshot 2" width="400"/>
+</div>
+
 
 
 
