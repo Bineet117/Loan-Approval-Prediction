@@ -58,6 +58,8 @@ def user_input_features(df):
 # Main function
 def main():
     st.title("Loan Approval Prediction App") 
+    # Display the image from URL
+    st.image("Instant-Loan-Approval.png", use_column_width=True)
     
     data = load_data()
     input_df = user_input_features(data)
