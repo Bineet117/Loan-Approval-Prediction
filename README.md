@@ -125,5 +125,5 @@ Select the features for loan Prediction.
 For any questions or feedback, please contact me at bineetgupta117@gmail.com📧.
 
 
-## 👉 Conclusion
+## 💰 Conclusion
 This project aims to provide a user-friendly interface for predicting loan approval, leveraging machine learning techniques.
