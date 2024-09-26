@@ -84,7 +84,6 @@ Select the features for loan Prediction.
 #### Machine Learning Models:
 - [Scikit-learn](https://scikit-learn.org/stable/) (Logistic Regression, Random Forest Classifier, Decision Tree Classifier, SVC)
 - [XGBoost](https://xgboost.readthedocs.io/en/stable/) (XGBClassifier)
-- [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
 
 #### Preprocessing and Pipeline:
 - [Scikit-learn](https://scikit-learn.org/stable/) (StandardScaler, OneHotEncoder, ColumnTransformer, Pipeline)
@@ -116,9 +115,10 @@ Select the features for loan Prediction.
 
 ## 💰 Streamlit App
 <div style="display:flex; justify-content:space-between;">
-  <img src="https://github.com/user-attachments/assets/ab4723e3-4b41-416c-b196-23bb72c85426" alt="Screenshot 1" width="400"/>
-  <img src="https://github.com/user-attachments/assets/069f0b71-84d1-4e7c-a493-35ce60edbc7a" alt="Screenshot 2" width="400"/>
+  <img src="https://github.com/user-attachments/assets/64c05afd-f523-451c-b7ab-279d4dc39625" alt="Screenshot 1" width="400"/>
+  <img src="https://github.com/user-attachments/assets/8f751ae6-a6cc-4b62-80dd-d81526f322c6" alt="Screenshot 2" width="400"/>
 </div>
+
 
 
 
